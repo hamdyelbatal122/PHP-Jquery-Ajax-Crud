@@ -28,14 +28,11 @@
 
         </script>
 
-
-
         <script src="/js/item-ajax.js"></script>
 
 </head>
 
 <body>
-
 
 
 	<div class="container">
